@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/folio/static/css/main.42ac5451.css",
+    "main.js": "/folio/static/js/main.649b986f.js",
+    "static/media/fusion.png": "/folio/static/media/fusion.29651d4d43dde4d8b187.png",
+    "static/media/canva.png": "/folio/static/media/canva.81dfb11e82c874469d49.png",
+    "static/media/python.png": "/folio/static/media/python.6a73acb1b446325bffb8.png",
+    "static/media/nodejs.png": "/folio/static/media/nodejs.fa040cdea1a2f3b0845a.png",
+    "static/media/oracle.png": "/folio/static/media/oracle.46a0ee61007ee7c39a3d.png",
+    "static/media/vscode.png": "/folio/static/media/vscode.0ae5528c7a9d7415b0ed.png",
+    "static/media/project1.jpg": "/folio/static/media/project1.fd02ce2608e4bec84ea9.jpg",
+    "static/media/profile.jpg": "/folio/static/media/profile.8dc0fc7a47e6889e5d0f.jpg",
+    "static/media/django.png": "/folio/static/media/django.c33b1e51fc486a520984.png",
+    "static/media/html.png": "/folio/static/media/html.c6e5998c04f048f853ef.png",
+    "static/media/mysql.png": "/folio/static/media/mysql.47ff469a59c8c5a2bbe6.png",
+    "static/media/ML.png": "/folio/static/media/ML.71cf5caaa614ef0f3d76.png",
+    "static/media/redhat.png": "/folio/static/media/redhat.15a92f9fb9e343d26fce.png",
+    "static/media/powerbi.png": "/folio/static/media/powerbi.fe9f94df8f17c8b063fe.png",
+    "static/media/spring.png": "/folio/static/media/spring.c7236d672a83ebf13903.png",
+    "static/media/azure.png": "/folio/static/media/azure.083e6190caf2b11b646f.png",
+    "static/media/awscloud.png": "/folio/static/media/awscloud.ea75ee28601bd3cc7754.png",
+    "static/media/tf.png": "/folio/static/media/tf.80c3a42a445c2bb4e4f1.png",
+    "static/media/project4.jpg": "/folio/static/media/project4.878df97d13e88d7b503b.jpg",
+    "static/media/aws.png": "/folio/static/media/aws.f685d63a35961ca83875.png",
+    "static/media/project2.jpg": "/folio/static/media/project2.ca15b8cde9945ada812a.jpg",
+    "static/media/c.png": "/folio/static/media/c.9b642d9e909b253582a0.png",
+    "static/media/java.png": "/folio/static/media/java.39f44517d5b11d31de37.png",
+    "static/media/project5.jpg": "/folio/static/media/project5.62ad7a4c50be47bf3834.jpg",
+    "index.html": "/folio/index.html",
+    "main.42ac5451.css.map": "/folio/static/css/main.42ac5451.css.map",
+    "main.649b986f.js.map": "/folio/static/js/main.649b986f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ac5451.css",
+    "static/js/main.649b986f.js"
+  ]
+}
