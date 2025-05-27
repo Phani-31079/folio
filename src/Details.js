@@ -165,5 +165,5 @@ export const certificationsDetails = {
 
 
 export const resume={
-  link: 'https://drive.google.com/file/d/1M_0V03IWIAu_ZDqxIoEGHY8ONLw5nWxc/view?usp=sharing'
+  link: 'https://drive.google.com/file/d/1tF6IiLvVnDekYZQOG6FzyOcB7HiE1hAk/view'
 };
